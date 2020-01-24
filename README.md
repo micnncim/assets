@@ -1,6 +1,6 @@
 # assets
 
-Image assets created by @micnncim.
+Image assets @micnncim has created for GitHub repositories.
 
 ## Badges
 
