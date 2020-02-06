@@ -18,9 +18,17 @@ The badges created by Shields.io specify `micnncim/assets` as GitHub repository.
 
 ![workflow](https://img.shields.io/github/workflow/status/micnncim/assets/Test?label=Test&style=for-the-badge&logo=github)
 
+### GitHub Actions action
+
+![action](https://img.shields.io/badge/marketplace-assets-blue?style=for-the-badge&logo=github)
+
 ### Codecov
 
 ![codecov](https://img.shields.io/codecov/c/github/micnncim/assets?style=for-the-badge&logo=codecov)
+
+### Dependabot
+
+![dependabot](https://img.shields.io/badge/-dependabot-blue?style=for-the-badge&logo=dependabot)
 
 ### Docker
 
