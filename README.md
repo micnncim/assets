@@ -12,7 +12,7 @@ The badges created by Shields.io specify `micnncim/assets` as GitHub repository.
 
 ### GitHub Release
 
-![release](https://img.shields.io/github/v/release/micnncim/assets?style=for-the-badge)
+![release](https://img.shields.io/github/v/release/micnncim/assets?style=for-the-badge&logo=github)
 
 ### GitHub Actions workflow
 
