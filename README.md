@@ -26,6 +26,10 @@ The badges created by Shields.io specify `micnncim/assets` as GitHub repository.
 
 ![codecov](https://img.shields.io/codecov/c/github/micnncim/assets?style=for-the-badge&logo=codecov)
 
+### Code Climate
+
+![code-climate](https://img.shields.io/codeclimate/maintainability/micnncim/assets?logo=code%20climate&style=for-the-badge)
+
 ### CodeFactor
 
 ![codefactor](https://img.shields.io/codefactor/grade/github/micnncim/assets?logo=codefactor&style=for-the-badge)
