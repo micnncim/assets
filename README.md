@@ -57,3 +57,7 @@ The badges created by Shields.io specify `micnncim/assets` as GitHub repository.
 ### Python
 
 ![python-version](https://img.shields.io/github/pipenv/locked/python-version/micnncim/assets?logo=python&style=for-the-badge)
+
+### Terraform
+
+![terraform-version](https://img.shields.io/badge/terraform-v0.12-blue?style=for-the-badge&logo=terraform)
