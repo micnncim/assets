@@ -32,7 +32,7 @@ The badges created by Shields.io specify `micnncim/assets` as GitHub repository.
 
 ### Dependabot
 
-![dependabot](https://img.shields.io/badge/-dependabot-blue?style=for-the-badge&logo=dependabot)
+![dependabot](https://img.shields.io/badge/dependabot-enabled-blue?style=for-the-badge&logo=dependabot)
 
 ### Docker
 
