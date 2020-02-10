@@ -54,6 +54,8 @@ The badges created by Shields.io specify `micnncim/assets` as GitHub repository.
 
 ![go-version](https://img.shields.io/github/go-mod/go-version/micnncim/assets?logo=go&style=for-the-badge)
 
+![golangci](https://img.shields.io/badge/golangci-enabled-green?style=for-the-badge&logo=go)
+
 ### Rust
 
 ![crates](https://img.shields.io/crates/v/assets?logo=rust&style=for-the-badge)
